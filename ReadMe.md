@@ -1,10 +1,11 @@
-# Restaurantly Web Application
+# 3-Tier React / NodeJS / MongoDB Web Application
 
 ![Forza Restaurant Image](Forza-Restaurant-Image.png)
 
 ## Overview
 
-Restaurantly is a 3-tier web application that utilizes MongoDB for the database, Node.js for the backend server, and React for the frontend. The project is built on top of the provided HTML5 and Bootstrap template for a restaurant website.
+Restaurantly is a 3-tier web application that utilizes MongoDB for the database, Node.js for the backend server, and React for the frontend. 
+The project is built on top of the provided HTML5 and Bootstrap template for a restaurant website.
 
 ## How to Run
 
