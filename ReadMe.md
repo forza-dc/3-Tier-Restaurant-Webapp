@@ -46,7 +46,7 @@ Contact Page: Place orders via phone or use the contact form.
 Location Map: View the restaurant's location on a map.
 Feel free to explore and customize the application as needed. If you encounter any issues or have questions, please reach out to us.
 
-Happy dining!
+Happy Dining!
 
 ```typescript
-Replace `<YOUR_MONGODB_CONNECTION_STRING>` with your actual M
+Replace `<YOUR_MONGODB_CONNECTION_STRING>` with your actual info
