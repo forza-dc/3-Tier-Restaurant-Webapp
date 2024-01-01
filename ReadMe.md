@@ -21,23 +21,27 @@ Follow the steps below to run the Restaurantly web application:
 ```bash
 git clone https://github.com/your-username/Restaurantly.git
 cd Restaurantly
+```
 
-3. Install Dependencies
+### 3. Install Dependencies
 ``` bash
 npm install
+```
 
-4. Set Up MongoDB Connection
+### 4. Set Up MongoDB Connection
 Replace <YOUR_MONGODB_CONNECTION_STRING> in the server.js file with your MongoDB Atlas connection string.
 
 ```javascript
 const mongoURI = 'mongodb+srv://forza101:Mongo100@forza-cluster.ai8yjp5.mongodb.net/';
+```
 
-5. Run the Application
+###5. Run the Application
 ```bash
 node server.js
 The server will start running at http://localhost:5000.
+```
 
-6. Access the Application
+### 6. Access the Application
 Open your web browser and navigate to http://localhost:5000 to view the Restaurantly web application.
 
 Features
@@ -50,3 +54,4 @@ Happy Dining!
 
 ```typescript
 Replace `<YOUR_MONGODB_CONNECTION_STRING>` with your actual info
+```
