@@ -35,7 +35,7 @@ Replace <YOUR_MONGODB_CONNECTION_STRING> in the server.js file with your MongoDB
 const mongoURI = 'mongodb+srv://forza101:Mongo100@forza-cluster.ai8yjp5.mongodb.net/';
 ```
 
-###5. Run the Application
+### 5. Run the Application
 ```bash
 node server.js
 The server will start running at http://localhost:5000.
